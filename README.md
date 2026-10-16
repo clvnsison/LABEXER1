@@ -5,7 +5,7 @@ A 32-bit NASM Linux program that uses procedures to perform addition, subtractio
 ## Files
 
 - `LABEXER1.asm` — program source.
-- `LABEXER1.docx` — source code, brief explanation, compilation process, and test screenshots.
+- `LABEXER1.pdf` — source code, brief explanation, compilation process, and test screenshots.
 - `README.md` — program overview and compilation instructions.
 
 ## Compile and run
